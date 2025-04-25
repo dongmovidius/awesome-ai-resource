@@ -6,3 +6,5 @@ Collection of awesome AI source, including  RAG, Agents,  MCP etc
 3. Lightweight framework for building Agents with memory, knowledge, tools and reasoning: https://github.com/agno-agi/agno/tree/main
 4. AI agent course fro microsoft: https://github.com/microsoft/ai-agents-for-beginners   
 6. Explain code in AI: https://github.com/The-Pocket/Tutorial-Codebase-Knowledge
+7. An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. https://github.com/stanford-oval/storm/
+8. 
