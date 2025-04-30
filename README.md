@@ -8,3 +8,4 @@ Collection of awesome AI source, including  RAG, Agents,  MCP etc
 6. Explain code in AI: https://github.com/The-Pocket/Tutorial-Codebase-Knowledge
 7. An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. https://github.com/stanford-oval/storm/
 8. github code analysis： https://deepwiki.com/
+9. Generative AI for Beginners (Version 3) - A Course https://github.com/microsoft/generative-ai-for-beginners/
