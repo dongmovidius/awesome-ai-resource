@@ -10,3 +10,4 @@ Collection of awesome AI source, including  RAG, Agents,  MCP etc
 8. github code analysis： https://deepwiki.com/
 9. Generative AI for Beginners (Version 3) - A Course https://github.com/microsoft/generative-ai-for-beginners/
 10. deep research, combining language models with tools like web search, crawling, and Python execution https://github.com/bytedance/deer-flow
+11. Try Public APIs for free https://github.com/public-apis/public-apis
