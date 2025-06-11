@@ -12,3 +12,9 @@ Collection of awesome AI source, including  RAG, Agents,  MCP etc
 10. deep research, combining language models with tools like web search, crawling, and Python execution https://github.com/bytedance/deer-flow
 11. Try Public APIs for free https://github.com/public-apis/public-apis
 12. RSS follow: https://github.com/RSSNext/Folo/
+
+# awesome-ai-agent
+1. AI hedge fund: https://github.com/virattt/ai-hedge-fund
+2. R&D agent: https://github.com/microsoft/RD-Agent
+3. AgenticSeek: private, local manus alternative: https://github.com/Fosowl/agenticSeek
+4. multi-agent system framework https://github.com/ZHangZHengEric/Sage
