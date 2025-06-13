@@ -20,5 +20,5 @@ Collection of awesome AI source, including  RAG, Agents,  MCP etc
 4. multi-agent system framework https://github.com/ZHangZHengEric/Sage
 
 # MCP
-1. github mcp srver: https://github.com/github/github-mcp-server
+1. Model Context Protocol Servers: https://github.com/modelcontextprotocol/servers
 2. awesome mcp server: https://github.com/punkpeye/awesome-mcp-servers
