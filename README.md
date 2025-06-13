@@ -18,3 +18,7 @@ Collection of awesome AI source, including  RAG, Agents,  MCP etc
 2. R&D agent: https://github.com/microsoft/RD-Agent
 3. AgenticSeek: private, local manus alternative: https://github.com/Fosowl/agenticSeek
 4. multi-agent system framework https://github.com/ZHangZHengEric/Sage
+
+# MCP
+1. github mcp srver: https://github.com/github/github-mcp-server
+2. awesome mcp server: https://github.com/punkpeye/awesome-mcp-servers
