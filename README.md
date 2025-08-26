@@ -3,6 +3,7 @@ Collection of awesome AI source, including  RAG, Agents,  MCP etc
 # Training course 
 1. AI agent course fro microsoft: https://github.com/microsoft/ai-agents-for-beginners   
 2. Generative AI for Beginners (Version 3) - A Course https://github.com/microsoft/generative-ai-for-beginners/
+3. agents-from-scratch https://github.com/langchain-ai/agents-from-scratch
 
 # Tools
 ## Code Understanding 
