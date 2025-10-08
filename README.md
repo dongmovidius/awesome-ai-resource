@@ -11,7 +11,10 @@ Collection of awesome AI source, including  RAG, Agents,  MCP etc
 ## Code Understanding 
 1. github code analysis： https://deepwiki.com/
 2. Explain code in AI: https://github.com/The-Pocket/Tutorial-Codebase-Knowledge
+3. zread.ai https://zread.ai/
 
+## Webpage development
+1. 最快无水印、即时预览	免费 https://v0.dev/
 ## Deep Research
 1. deep research, combining language models with tools like web search, crawling, and Python execution https://github.com/bytedance/deer-flow
 2. An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. https://github.com/stanford-oval/storm/
